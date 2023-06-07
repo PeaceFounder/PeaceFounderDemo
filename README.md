@@ -15,7 +15,7 @@ julia --load=peacefounder_service.jl
 
 This will open the Julia shell, which shall simulate guardian interaction with the system. Look into `add_members`, `add_braid` and `add_proposal` methods to try out different scenarios. 
 
-The second service provides means for new members to register with the deme. This, in general, is a situation that depends on how the authenticity of every member is validated. Here we shall use an email for authenticity with the `Recruiters` package. 
+The second service provides means for new members to register with the deme. This, in general, is a situation dependent on how the authenticity of every member is validated. Here we shall use an email for authenticity with the `Recruiters` package. 
 
 To start the service, we first export peacefounder recruitment parameters, printed when the `peacefounder_service.jl` is started:
 
