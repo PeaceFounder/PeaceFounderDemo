@@ -33,3 +33,6 @@ julia --load=recruiter_service.jl
 
 Note that you must edit the `recruiter_service.jl` and enter credentials for an email account with SMTP support for the members to receive invites to their email addresses. 
 
+## Demo
+
+https://www.youtube.com/watch?v=L7M0FG50ulU
