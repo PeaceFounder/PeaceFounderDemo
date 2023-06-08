@@ -35,4 +35,4 @@ Note that you must edit the `recruiter_service.jl` and enter credentials for an 
 
 ## Demo
 
-https://www.youtube.com/watch?v=L7M0FG50ulU
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L7M0FG50ulU/maxresdefault.jpg)](https://www.youtube.com/watch?v=L7M0FG50ulU)
