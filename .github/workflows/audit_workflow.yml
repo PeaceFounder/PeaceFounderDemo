@@ -13,10 +13,6 @@ jobs:
       with:
         version: '1.x'
 
-    - name: Install Oxygen Package
-      run: |
-        julia -e 'using Pkg; Pkg.add("Oxygen")' # Replace "Oxygen" with the actual package name
-
     - name: Install PeaceFounder from GitHub
       run: |
         julia -e 'using Pkg; Pkg.add(url="https://github.com/PeaceFounder/PeaceFounder.jl")'
